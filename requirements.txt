@@ -1,0 +1,11 @@
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+pandas>=1.5
+torch>=2.0
+torchvision>=0.15
+torch-geometric>=2.3        # GCN layers (optional; a dense fallback is also provided)
+tqdm>=4.65
+einops>=0.6
